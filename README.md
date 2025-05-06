@@ -1,3 +1,1 @@
 OmniAct
-repository center
-AI
